@@ -20,3 +20,4 @@ All of these can go through an LIP process. Lens Open Algorithm Standards are th
 ## Table of Contents
 
 - [Lens open algorithm standards](./lens-open-algorithm-standards/README.md)
+- [Lens metadata standards](./lens-metadata-standards/README.md)
